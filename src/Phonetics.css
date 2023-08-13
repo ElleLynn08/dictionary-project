@@ -1,26 +1,5 @@
 .Phonetics {
-  margin: 20px 0;
-}
-.Phonetics a {
-  background: #ffffff;
-  border: 1px solid #ddd;
-  border-color: #ab5d3b;
-  border-radius: 20px;
-  color: #ab5d3b;
-  font-size: 14px;
-  font-weight: bold;
-  margin-right: 7px;
-  padding: 10px 15px;
-  text-decoration: none;
-  transition: all 200ms ease-in-out;
-}
-
-.Phonetics a:hover {
-  background: #ab5d3b;
-  color: #ffffff;
-}
-
-.Phonetics .pronunciation {
-  font-weight: bold;
+  line-height: 19px;
+  margin: 20px 0 0;
   opacity: 0.7;
 }
