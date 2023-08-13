@@ -1,9 +1,14 @@
-.App{
-  background:rgb(255, 217, 189) ;
+.App {
+  background: rgb(255, 217, 189);
+  border-radius: 6px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 60px 0 100px;
 }
 .App .container {
   display: block;
-  margin: 0 auto;
+  max-width: 900px;
   text-align: center;
   padding-top: 30px;
 }
