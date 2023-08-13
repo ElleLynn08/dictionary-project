@@ -12,7 +12,7 @@ export default function App() {
           <img src={logo} className="dictionary-logo " alt="logo" />
         </header>
         <main>
-          <Dictionary defaultKeyword="pumpkin" />
+          <Dictionary defaultKeyword="impression" />
         </main>
         <Footer />
       </div>
