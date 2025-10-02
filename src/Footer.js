@@ -1,4 +1,4 @@
-import React from "react";
+limport React from "react";
 import "./Footer.css";
 
 export default function Footer() {
@@ -7,15 +7,15 @@ export default function Footer() {
       <footer>
         This project was coded by{" "}
         <a
-          href="https://michelle-findley-frontend-dev.netlify.app/"
+          href="https://https://ellelynn.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <strong>Míchelle Findley</strong>
+          <strong>Elle Lynn</strong>
         </a>{" "}
         and is open-sourced on{" "}
         <a
-          href="https://github.com/MFindley08/dictionary-project"
+          href="https://github.com/ElleLynn08/dictionary-project"
           target="_blank"
           rel="noopener noreferrer"
         >
